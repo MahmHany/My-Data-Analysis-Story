@@ -6,6 +6,7 @@
   - [Netflix-Data-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Netflix-Data-Analysis-Power-BI-Dashboard)
   - [HR-Analytics-Dashboard-Power-BI](https://github.com/mahmhany/-HR-Analytics-Dashboard-Power-BI)
   - [Startup-Expansion-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Startup-Expansion-Analysis-Power-BI-Dashboard)
+  - [Performance-Report---Power-BI-Dashboard](https://github.com/mahmhany/Performance-Report---Power-BI-Dashboard)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
