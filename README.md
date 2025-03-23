@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Power Bi Projects</b>
-  - [Netflix-Data-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Netflix-Data-Analysis-Power-BI-Dashboard)
+  - [Netflix-Data-Analysis-Power-BI-Dashboard](https://github.com/MahmHany/Netflix-Analytics-Dashboard-Power-BI/blob/main/README.md)
   - [HR-Analytics-Dashboard-Power-BI](https://github.com/mahmhany/-HR-Analytics-Dashboard-Power-BI)
   - [Startup-Expansion-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Startup-Expansion-Analysis-Power-BI-Dashboard)
   - [Performance-Report-Power-BI-Dashboard](https://github.com/mahmhany/Performance-Report---Power-BI-Dashboard)
