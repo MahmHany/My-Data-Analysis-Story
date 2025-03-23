@@ -13,6 +13,7 @@
 
 [<img align="left" alt="Mahmhany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahmhany/)
 [<img align="left" alt="Mahmhany | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mahmhany/)
+[<img align="left" alt="Mahmhany | DataCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" />](https://www.datacamp.com/portfolio/mahmhany)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
