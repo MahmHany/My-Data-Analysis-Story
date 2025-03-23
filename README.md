@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mahmoud! <br/><a href="https://github.com/joshmadakor1">Data Analyst </a>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analysis:</h2>
 
 - <b>Power Bi Projects</b>
   - [Netflix-Data-Analysis-Power-BI-Dashboard](https://github.com/MahmHany/Netflix-Analytics-Dashboard-Power-BI/blob/main/README.md)
