@@ -9,6 +9,9 @@
   - [Performance-Report-Power-BI-Dashboard](https://github.com/mahmhany/Performance-Report---Power-BI-Dashboard)
   - [Magnificent-7-Market-Cap-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Magnificent-7-Market-Cap-Analysis-Power-BI-Dashboard/blob/main/README.md)
 
+- <b>Excel</b>
+  - [Analyzing-Hospital-Waiting-Complains](https://github.com/MahmHany/Analyzing-Hospital-Waiting-Complains)
+
 ## 🤳 Connect with me:
 
 [<img align="left" alt="Mahmhany | DataCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" />](https://www.datacamp.com/portfolio/mahmhany)
