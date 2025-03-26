@@ -8,6 +8,7 @@
   - [Startup-Expansion-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Startup-Expansion-Analysis-Power-BI-Dashboard)
   - [Performance-Report-Power-BI-Dashboard](https://github.com/mahmhany/Performance-Report---Power-BI-Dashboard)
   - [Magnificent-7-Market-Cap-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Magnificent-7-Market-Cap-Analysis-Power-BI-Dashboard/blob/main/README.md)
+  - [Case-Study-Mortgage-Trading-Analysis-Dashboard-in-Power-BI](https://github.com/MahmHany/Case-Study-Mortgage-Trading-Analysis-Dashboard-in-Power-BI)
 
 - <b>Excel</b>
   - [Analyzing-Hospital-Waiting-Complains](https://github.com/MahmHany/Analyzing-Hospital-Waiting-Complains)
