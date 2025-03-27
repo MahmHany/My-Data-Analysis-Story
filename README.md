@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mahmoud! <br/><a href="https://github.com/joshmadakor1">Data Analyst </a>
+<h1>Hi, I'm Mahmoud! <br/><a href="https://github.com/MahmHany">Data Analyst </a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
