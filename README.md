@@ -6,10 +6,11 @@
   - [Netflix-Data-Analysis-Power-BI-Dashboard](https://github.com/MahmHany/Netflix-Analytics-Dashboard-Power-BI/blob/main/README.md)
   - [HR-Analytics-Dashboard-Power-BI](https://github.com/mahmhany/-HR-Analytics-Dashboard-Power-BI)
   - [Startup-Expansion-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Startup-Expansion-Analysis-Power-BI-Dashboard)
+  - [Case-Study-Ecommerce-Analysis-in-Power-BI](https://github.com/MahmHany/Case-Study-Ecommerce-Analysis-in-Power-BI)
   - [Performance-Report-Power-BI-Dashboard](https://github.com/mahmhany/Performance-Report---Power-BI-Dashboard)
   - [Magnificent-7-Market-Cap-Analysis-Power-BI-Dashboard](https://github.com/mahmhany/Magnificent-7-Market-Cap-Analysis-Power-BI-Dashboard/blob/main/README.md)
   - [Case-Study-Mortgage-Trading-Analysis-Dashboard-in-Power-BI](https://github.com/MahmHany/Case-Study-Mortgage-Trading-Analysis-Dashboard-in-Power-BI)
-  - [Case-Study-Ecommerce-Analysis-in-Power-BI](https://github.com/MahmHany/Case-Study-Ecommerce-Analysis-in-Power-BI)
+  
 
 - <b>Excel</b>
   - [Analyzing-Hospital-Waiting-Complains](https://github.com/MahmHany/Analyzing-Hospital-Waiting-Complains)
