@@ -3,7 +3,9 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Power Bi</b>
-  -  [Analyzing Healthcare Data in Power BI](https://github.com/MahmHany/Analyzing-Healthcare-Data-in-Power-BI/blob/main/README.md)
+  
+  - [Uber Trip Analysis](https://github.com/MahmHany/Uber-Trip-Analysis-Dashboard/blob/main/README.md)
+  - [Analyzing Healthcare Data in Power BI](https://github.com/MahmHany/Analyzing-Healthcare-Data-in-Power-BI/blob/main/README.md)
   - [Netflix Data Analysis Power BI Dashboard](https://github.com/MahmHany/Netflix-Analytics-Dashboard-Power-BI/blob/main/README.md)
   - [HR Analytics Dashboard Power BI](https://github.com/mahmhany/-HR-Analytics-Dashboard-Power-BI)
   - [Startup Expansion Analysis Power BI Dashboard](https://github.com/mahmhany/Startup-Expansion-Analysis-Power-BI-Dashboard)
