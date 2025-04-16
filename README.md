@@ -8,6 +8,7 @@
   - [Spotify Listening Trends Dashboard](https://github.com/MahmHany/Spotify-Listening-Trends-Dashboard/blob/main/README.md)
   - [Analyzing Healthcare Data in Power BI](https://github.com/MahmHany/Analyzing-Healthcare-Data-in-Power-BI/blob/main/README.md)
   - [Netflix Data Analysis Power BI Dashboard](https://github.com/MahmHany/Netflix-Analytics-Dashboard-Power-BI/blob/main/README.md)
+  - [Car Sales Dashboard](https://github.com/MahmHany/Car-Sales-Dashboard/blob/main/README.md)
   - [HR Analytics Dashboard Power BI](https://github.com/mahmhany/-HR-Analytics-Dashboard-Power-BI)
   - [Startup Expansion Analysis Power BI Dashboard](https://github.com/mahmhany/Startup-Expansion-Analysis-Power-BI-Dashboard)
   - [Case Study Ecommerce Analysis in Power BI](https://github.com/MahmHany/Case-Study-Ecommerce-Analysis-in-Power-BI)
