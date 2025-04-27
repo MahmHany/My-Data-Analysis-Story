@@ -7,6 +7,7 @@
   - [Uber Trip Analysis](https://github.com/MahmHany/Uber-Trip-Analysis-Dashboard/blob/main/README.md)
   - [Spotify Listening Trends Dashboard](https://github.com/MahmHany/Spotify-Listening-Trends-Dashboard/blob/main/README.md)
   - [Analyzing Healthcare Data in Power BI](https://github.com/MahmHany/Analyzing-Healthcare-Data-in-Power-BI/blob/main/README.md)
+  - [Wisabi ATM Transactions and Demographic Analysis Dashboard](https://github.com/MahmHany/Wisabi-ATM-Transactions-and-Demographic-Analysis-Dashboard/blob/main/README.md)
   - [Netflix Data Analysis Power BI Dashboard](https://github.com/MahmHany/Netflix-Analytics-Dashboard-Power-BI/blob/main/README.md)
   - [Ecommerce Sales Analytics and Visualization](https://github.com/MahmHany/Ecommerce-Sales-Analytics-and-Visualization/blob/main/README.md)
   - [Car Sales Dashboard](https://github.com/MahmHany/Car-Sales-Dashboard/blob/main/README.md)
