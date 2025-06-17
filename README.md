@@ -20,7 +20,7 @@
   - [Case Study Mortgage Trading Analysis Dashboard in Power BI](https://github.com/MahmHany/Case-Study-Mortgage-Trading-Analysis-Dashboard-in-Power-BI)
   - [Call Center Performance Analyzer](https://github.com/MahmHany/Call-Center-Performance-Analyzer)
 
-- <b>ETL Process</b>
+- <b>ETL Process and Python Cleaning</b>
   - [Order Data ETL and Sales Analysis](https://github.com/MahmHany/-Order-Data-ETL-and-Sales-Analysis-Project)
   - [Customer Call List Data Cleaning Preprocessing with Python](https://github.com/MahmHany/Customer-Call-List-Data-Cleaning-Preprocessing-with-Python)
   
