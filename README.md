@@ -24,6 +24,7 @@
   - [Order Data ETL and Sales Analysis](https://github.com/MahmHany/-Order-Data-ETL-and-Sales-Analysis-Project)
   - [Customer Call List Data Cleaning Preprocessing with Python](https://github.com/MahmHany/Customer-Call-List-Data-Cleaning-Preprocessing-with-Python)
   - [Exploring Airbnb Market Trends](https://github.com/MahmHany/Exploring-Airbnb-Market-Trends/tree/main)
+  - [Cleaning Bank Marketing Campaign Data](https://github.com/MahmHany/Cleaning-Bank-Marketing-Campaign-Data)
 
   
 
