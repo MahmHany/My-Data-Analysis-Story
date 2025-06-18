@@ -26,6 +26,7 @@
   - [Exploring Airbnb Market Trends](https://github.com/MahmHany/Exploring-Airbnb-Market-Trends/tree/main)
   - [Cleaning Bank Marketing Campaign Data](https://github.com/MahmHany/Cleaning-Bank-Marketing-Campaign-Data)
   - [Visualizing the History of Nobel Prize Winners](https://github.com/MahmHany/Visualizing-the-History-of-Nobel-Prize-Winners/tree/main)
+  - [Analyzing-Crime-in-Los-Angeles](https://github.com/MahmHany/Analyzing-Crime-in-Los-Angeles/tree/main)
 
   
 
