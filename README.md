@@ -56,7 +56,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+  <a href="mailto:mahmoudhany509@gmail.com"><img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
   <a href="https://www.linkedin.com/in/mahmhany/"><img alt="Mahmoud Hany | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.datacamp.com/portfolio/mahmhany"><img alt="Mahmoud Hany | DataCamp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" /></a
   <a href="https://www.instagram.com/mahmhany/"><img alt="Mahmoud Hany | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
