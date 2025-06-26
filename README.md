@@ -20,14 +20,14 @@
   - [Case Study Mortgage Trading Analysis Dashboard in Power BI](https://github.com/MahmHany/Case-Study-Mortgage-Trading-Analysis-Dashboard-in-Power-BI)
   - [Call Center Performance Analyzer](https://github.com/MahmHany/Call-Center-Performance-Analyzer)
 
-- <b>ETL Process and Python Cleaning</b>
+- <b>ETL Process, SQL and Python Cleaning</b>
   - [Order Data ETL and Sales Analysis](https://github.com/MahmHany/-Order-Data-ETL-and-Sales-Analysis-Project)
   - [Customer Call List Data Cleaning Preprocessing with Python](https://github.com/MahmHany/Customer-Call-List-Data-Cleaning-Preprocessing-with-Python)
   - [Exploring Airbnb Market Trends](https://github.com/MahmHany/Exploring-Airbnb-Market-Trends/tree/main)
   - [Cleaning Bank Marketing Campaign Data](https://github.com/MahmHany/Cleaning-Bank-Marketing-Campaign-Data)
   - [Visualizing the History of Nobel Prize Winners](https://github.com/MahmHany/Visualizing-the-History-of-Nobel-Prize-Winners/tree/main)
-  - [Analyzing-Crime-in-Los-Angeles](https://github.com/MahmHany/Analyzing-Crime-in-Los-Angeles/tree/main)
-
+  - [Analyzing Crime in Los-Angeles](https://github.com/MahmHany/Analyzing-Crime-in-Los-Angeles/tree/main)
+  - [Timeless Business Insights](https://github.com/MahmHany/Timeless-Business-Insights/tree/main)
   
 
 - <b>Excel</b>
