@@ -4,6 +4,20 @@
 
 ---
 
+
+## 🛠️ Skills & Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-orange?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-blueviolet?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
 ## 🚀 Featured Data Analysis Projects
 
 ### 🔷 Power BI Dashboards
@@ -41,12 +55,17 @@
 
 ## 🤝 Connect with Me
 
-<a href="https://www.datacamp.com/portfolio/mahmhany"><img align="left" alt="Mahmhany | DataCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" /></a>
-<a href="https://www.linkedin.com/in/mahmhany/"><img align="left" alt="Mahmhany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/mahmhany/"><img align="left" alt="Mahmhany | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-<br/><br/>
+<p align="center">
+  <a href="mailto:your.email@example.com"><img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+  <a href="https://www.linkedin.com/in/mahmhany/"><img alt="Mahmoud Hany | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.datacamp.com/portfolio/mahmhany"><img alt="Mahmoud Hany | DataCamp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" /></a
+  <a href="https://www.instagram.com/mahmhany/"><img alt="Mahmoud Hany | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
 
 ---
 
 <p align="center"><i>Let data tell the story — one dashboard at a time.</i></p>
+
+<p align="center">Feel free to reach out for collaborations or just to say hi!</p>
+
+
