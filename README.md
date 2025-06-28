@@ -66,7 +66,6 @@ I'm passionate about data storytelling and helping businesses make smarter decis
   <a href="mailto:mahmoudhany509@gmail.com"><img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
   <a href="https://www.linkedin.com/in/mahmhany/"><img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
   <a href="https://www.datacamp.com/portfolio/mahmhany"><img alt="DataCamp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg"/></a>
-  <a href="https://www.instagram.com/mahmhany/"><img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 </p>
 
 ---
