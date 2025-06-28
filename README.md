@@ -54,6 +54,7 @@ I'm passionate about data storytelling and helping businesses make smarter decis
 - 🕰️ [Timeless Business Insights](https://github.com/MahmHany/Timeless-Business-Insights)
 - 🎓 [Student Performance & Study Habits](https://github.com/MahmHany/Student-Performance-Analysis-Study-Habits-Activities-Ranking)
 - ❤️ [Donor Trends & Regional Insights](https://github.com/MahmHany/Donation-Assignment-Analysis-Donor-Trends-Regional-Insights)
+- ⚽ [Goals Scored Analysis: Men's vs Women's FIFA World Cup Matches](https://github.com/MahmHany/World-Cup-Goals-Analysis-Gender-Based-Scoring-Trends)
 
 ### 📋 Excel Dashboards
 - 🏥 [Hospital Waiting Complaints](https://github.com/MahmHany/Analyzing-Hospital-Waiting-Complains)
