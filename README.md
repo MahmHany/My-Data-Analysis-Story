@@ -45,6 +45,7 @@ I'm passionate about data storytelling and helping businesses make smarter decis
 - ☎️ [Call Center Analyzer](https://github.com/MahmHany/Call-Center-Performance-Analyzer)
 
 ### 🧰 ETL, SQL & Python Projects
+- 📊 [Sales Trends & Segmentation: SQL Reporting Project](https://github.com/MahmHany/Sales-Trends-and-Segmentation-SQL-Project)
 - 📦 [Order Data ETL & Sales Insights](https://github.com/MahmHany/-Order-Data-ETL-and-Sales-Analysis-Project)
 - 📞 [Customer Call List Cleanup (Python)](https://github.com/MahmHany/Customer-Call-List-Data-Cleaning-Preprocessing-with-Python)
 - 🏠 [Airbnb Market Trends](https://github.com/MahmHany/Exploring-Airbnb-Market-Trends)
